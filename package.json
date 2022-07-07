@@ -1,0 +1,23 @@
+{
+  "name": "curriculum-vitae",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacho1054/Curriculum-Vitae.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacho1054/Curriculum-Vitae/issues"
+  },
+  "homepage": "https://github.com/nacho1054/Curriculum-Vitae#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
