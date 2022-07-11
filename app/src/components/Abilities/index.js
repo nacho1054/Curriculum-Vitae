@@ -1,8 +1,8 @@
-
+import "./abilities.css";
 
 function Abilities() {
     return (
-        <div classname="abilities">
+        <div className="abilities">
             <h2>HABILIDADES</h2>
             <h4>Front end</h4>
                 <ul>

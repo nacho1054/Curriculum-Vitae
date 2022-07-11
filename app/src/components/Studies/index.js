@@ -1,7 +1,8 @@
+import "./studies.css";
 
 function Studies() {
     return(
-        <div>
+        <div className="main-studies">
             <h2>ESTUDIOS</h2>
             <h4>Universidad Tecnológica Nacional
             Facultad Regional de Buenos Aires

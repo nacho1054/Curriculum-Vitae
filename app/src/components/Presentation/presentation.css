@@ -1,0 +1,49 @@
+
+.main-header {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #CCEAF4;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.photo {
+    padding: .5%;
+    border-radius: 100%;
+    object-fit: contain;
+    width: 200px;
+    background-color: #CCEAF4;
+}
+
+.main-info {
+    align-self: center;
+    width: 40%;
+    padding-left: .5%;
+    background-color: #CCEAF4;
+    color: #232323;
+}
+
+.name {
+    background-color: #CCEAF4;
+}
+
+.job {
+    background-color: #CCEAF4;
+}
+
+.selector {
+    display:inline-block;
+    position: relative;
+}
+
+.ukFlag {
+    position:relative;
+    right: 60px;
+    top: 40px;
+}
+
+.esFlag {
+    position:relative;
+    left: 60px;
+    bottom: 40px;
+}
