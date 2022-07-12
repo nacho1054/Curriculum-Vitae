@@ -1,5 +1,7 @@
 import "./abilities.css";
 
+
+
 function Abilities() {
     return (
         <div className="abilities">
@@ -27,3 +29,6 @@ function Abilities() {
 }
 
 export default Abilities;
+
+
+

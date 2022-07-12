@@ -5,6 +5,8 @@ import Experience from "./components/Experience";
 import Abilities from "./components/Abilities";
 import Contact from "./components/Contact";
 import "./app.css"
+import NestedList from "./components/List";
+
 
 
 const name = "Ignacio Martinez"
@@ -18,6 +20,7 @@ function App() {
         <Experience />
         <Abilities />
         <Contact />
+        <NestedList />
     </div>
   );
 }
